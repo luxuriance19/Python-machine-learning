@@ -14,4 +14,6 @@ implementation
    
 6 clustering(unsupervised learning)  
 
-7 Image Recognition with NN(implementing bp)
+7 Image Recognition with NN(implementing bp)  
+
+8 Implementation of linear classification: Adaptive linear classification ,PLA
